@@ -1,5 +1,5 @@
 
-# ProjectCongNgheWeb
+# ProjectGR2
 Providing a solution for Enterprise
 
 ## Cấu trúc project backend
